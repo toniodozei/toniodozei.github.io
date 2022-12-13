@@ -9,6 +9,10 @@ layout: default
 
 ![coussin](https://github.com/toniodozei/toniodozei.github.io/photo_coussin.jpg)
 
+![coussin1](https://github.com/toniodozei/toniodozei.github.io/photo_coussin1.jpg)
+
+![coussin2](https://github.com/toniodozei/toniodozei.github.io/photo_coussin2.jpg)
+
 
 ## Header 2
 
